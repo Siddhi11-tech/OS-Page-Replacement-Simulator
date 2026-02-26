@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OS-Page-Replacement-Simulator/static/css/main.f0f55d2d.css",
+    "main.js": "/OS-Page-Replacement-Simulator/static/js/main.3bdb1fe4.js",
+    "index.html": "/OS-Page-Replacement-Simulator/index.html",
+    "main.f0f55d2d.css.map": "/OS-Page-Replacement-Simulator/static/css/main.f0f55d2d.css.map",
+    "main.3bdb1fe4.js.map": "/OS-Page-Replacement-Simulator/static/js/main.3bdb1fe4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0f55d2d.css",
+    "static/js/main.3bdb1fe4.js"
+  ]
+}
