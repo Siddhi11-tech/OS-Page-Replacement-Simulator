@@ -2,6 +2,7 @@
   "name": "os-project-g5-team3",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Siddhi11-tech.github.io/OS-Page-Replacement-Simulator",
   "dependencies": {
     "@craco/craco": "^6.4.3",
     "@emotion/react": "^11.8.1",
@@ -25,7 +26,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -47,6 +50,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.2",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.7",
     "tailwindcss": "^3.0.23"
   }
